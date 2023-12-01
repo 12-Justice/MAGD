@@ -1,0 +1,2 @@
+# MAGD
+MAGD projects
